@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael 
+- 👋 Helloooo, I’m Michael 
 - 👀 I’m interested in Maths and Finance
 - 🌱 I’m currently studying in Quantitative Finance and Risk Management Science in CUHK
 
